@@ -88,6 +88,7 @@ public class FilterPage {
 		sel.selectByIndex(1);
 		Thread.sleep(3000);
 		System.out.println("Filter Z to A is successfully selected");
+		System.out.println("FEATURE2/CUCUMBER");
 		
 		List<WebElement> afterFilterNames = NameList;
 		List<String> afterfilterarray = new ArrayList<String>();
