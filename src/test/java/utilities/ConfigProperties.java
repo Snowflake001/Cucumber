@@ -10,7 +10,7 @@ import java.util.Properties;
 
 public class ConfigProperties {
 	private Properties property;
-	private String configpath = "C:\\Users\\Nikhil.Kale\\eclipse-workspace\\BDDCucumber\\src\\test\\java\\utilities\\config.properties";
+	private String configpath = "C:\\Users\\Nikhil\\eclipse-workspace\\Cucumber\\src\\test\\java\\utilities\\config.properties";
 	
 
 
